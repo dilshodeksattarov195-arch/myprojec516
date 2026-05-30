@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvender",
+        "uuid": 328692,
+        "checksum": "a0vyyc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
